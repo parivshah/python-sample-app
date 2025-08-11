@@ -1,0 +1,8 @@
+# Python Sample Application Dependencies
+# This application currently has no external dependencies
+# Add any required packages below as needed
+
+# Example dependencies (uncomment if needed):
+# requests>=2.28.0
+# flask>=2.3.0
+# pytest>=7.0.0 
